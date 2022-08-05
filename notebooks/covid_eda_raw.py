@@ -8,6 +8,10 @@
 
 # COMMAND ----------
 
+from covid_analysis import transforms
+
+# COMMAND ----------
+
 # MAGIC %md #### Transform
 
 # COMMAND ----------
