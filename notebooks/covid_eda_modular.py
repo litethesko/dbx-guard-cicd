@@ -20,10 +20,6 @@ print(f'Data path: {data_path}')
 
 # COMMAND ----------
 
-import transforms
-
-# COMMAND ----------
-
 from covid_analysis.transforms import *
 import pandas as pd
 
